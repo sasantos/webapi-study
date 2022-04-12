@@ -1,0 +1,19 @@
+{
+  "name": "webapi-study",
+  "version": "1.0.0",
+  "description": "Repository to learn skills on web develpoment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasantos/webapi-study.git"
+  },
+  "author": "sasantos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasantos/webapi-study/issues"
+  },
+  "homepage": "https://github.com/sasantos/webapi-study#readme"
+}
