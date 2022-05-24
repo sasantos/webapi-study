@@ -1,2 +1,2 @@
 # webapi-study
-Repository to learn skills on web develpoment
+Repository to improve skills on web development (backend)
